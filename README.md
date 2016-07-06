@@ -34,3 +34,4 @@ Git还有很多很丰富和很有趣的东西，大家后续也可以继续了�
 Luochunfeng: No software to write Chinese on ubuntu.. /*-+
              Hope to make some ffffffriends, and be a happy coder
 
+张蕴琪（非队式）：求大神带飞，作为一个非队式的来打打酱油，学习点知识，希望队式18能够是一个精彩的作品。
