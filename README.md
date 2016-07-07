@@ -33,4 +33,6 @@ Git还有很多很丰富和很有趣的东西，大家后续也可以继续了�
 
 Luochunfeng: No software to write Chinese on ubuntu.. /*-+
              Hope to make some ffffffriends, and be a happy coder
+			 
+唐宏阳（逻辑组或界面组）：楼上楼下都是大腿
 
