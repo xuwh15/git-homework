@@ -36,7 +36,7 @@ Git还有很多很丰富和很有趣的东西，大家后续也可以继续了�
 
 Luochunfeng: No software to write Chinese on ubuntu.. /*-+
              Hope to make some ffffffriends, and be a happy coder
-
+			 
 唐宏阳（逻辑组或界面组）：楼上楼下都是大腿
 
 吴昆（架构组）：学习一个，和大家多多学习经验，争取成为更优秀的developer
@@ -55,4 +55,4 @@ Luochunfeng: No software to write Chinese on ubuntu.. /*-+
 
 尹秋阳（逻辑组or架构组），2333我能告诉大家我把git卸载了吗。整个过程全部是用github完成的（版本回退就只好history然后找了QAQ），这样应该不影响干活吧。
 
-陈佳煜（界面组）：刚刚得知留言写错地方了。。。。。
+陈佳煜（界面组）：抱紧各位大腿
