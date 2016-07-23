@@ -56,3 +56,5 @@ Luochunfeng: No software to write Chinese on ubuntu.. /*-+
 尹秋阳（逻辑组or架构组），2333我能告诉大家我把git卸载了吗。整个过程全部是用github完成的（版本回退就只好history然后找了QAQ），这样应该不影响干活吧。
 
 陈佳煜（界面组）：抱紧各位大腿
+
+刘洁（界面组）：楼上的大腿们排成了好看的队形：）
