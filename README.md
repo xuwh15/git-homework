@@ -62,3 +62,5 @@ Luochunfeng: No software to write Chinese on ubuntu.. /*-+
 张硕（界面组）：果然ddl是第一生产力
 
 白钦博（逻辑组）：向各位大神学习。
+
+徐文昊（逻辑组）：向诸位大神学习一个。
